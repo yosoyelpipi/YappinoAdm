@@ -10,7 +10,6 @@
 Sistema de administración. Encuesta para bares y restaurantes.
 </description>
 
-<icon src="img/icon16x16.png" gap:platform="blackberry" />
 <preference name="phonegap-version" value="2.9.0" />
 <preference name="orientation" value="portrait" />
 <preference name="fullscreen" value="true" />
