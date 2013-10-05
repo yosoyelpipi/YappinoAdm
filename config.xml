@@ -16,7 +16,7 @@ Sistema de administración. Encuesta para bares y restaurantes.
 <icon src="img/icon_grande.png" />
 
 <gap:splash src="img/splashok.png" />
-<preference name="splash-screen-duration" value="18000" />
+<preference name="splash-screen-duration" value="5000" />
 <preference name="exit-on-suspend" value="true" />
 
 
